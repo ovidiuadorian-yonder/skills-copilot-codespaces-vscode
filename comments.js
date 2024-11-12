@@ -1,5 +1,4 @@
-// web server
-// 1. GET / - returns the comments.html file
+// Create web server
 
 const http = require('http');
 const fs = require('fs');
